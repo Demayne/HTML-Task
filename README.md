@@ -23,7 +23,7 @@ Once you've installed the project locally, you can view the online shopping page
 - In the footer section, you'll find a form to enter your contact details. Fill in the required fields and click the "Submit" button to submit the form (form submission functionality not implemented in this project).
 
 ## Screenshots:
-*(Include screenshots here)*
+Applinc
 
 ## Credits:
 - **Demayne Govender:** Primary developer of the online shopping page.
