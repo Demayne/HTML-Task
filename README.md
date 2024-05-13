@@ -11,7 +11,7 @@ This project is an online shopping page built using HTML, CSS, and Bootstrap. It
 
 ## Installation:
 To run this project locally, follow these steps:
-- Clone the repository to your local machine: `git clone https://github.com/your/repository.git`
+- Clone the repository to your local machine: `git clone https://github.com/demayne/HTML-Task.git`
 - Open the project directory in your preferred code editor.
 - Ensure you have Bootstrap CSS included in your project. You can use the provided CDN link in the HTML file or install Bootstrap via npm or yarn.
 - Ensure all image paths in the HTML file are correctly pointing to the images in the Images directory.
