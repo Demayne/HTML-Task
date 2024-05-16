@@ -23,8 +23,8 @@ Once you've installed the project locally, you can view the online shopping page
 - In the footer section, you'll find a form to enter your contact details. Fill in the required fields and click the "Submit" button to submit the form (form submission functionality not implemented in this project).
 
 ## Screenshots:
-![Click here to view updated screenshot of Appliance shop](https://github.com/Demayne/HTML-Task/blob/main/Updated%20HTML-Task(sale)1.png?raw=true)
- ![Click here to view updated screenshot of Appliance shop](https://github.com/Demayne/HTML-Task/assets/168866980/2a68be33-e425-4b28-b248-3394ba646cd0)
+![updated screenshot of Appliance shop](https://github.com/Demayne/HTML-Task/blob/main/Updated%20HTML-Task(sale)1.png?raw=true)
+ ![updated screenshot of Appliance shop footer](https://github.com/Demayne/HTML-Task/assets/168866980/2a68be33-e425-4b28-b248-3394ba646cd0)
 
 
 
