@@ -117,3 +117,9 @@ body {
 .container-fluid .btn-primary {
     margin-top: 10px;
 }
+
+/* discount */
+
+.discount{
+    color: red;
+}
